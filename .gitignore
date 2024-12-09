@@ -1,0 +1,7 @@
+# Ignore build artifacts, logs, and system files
+node_modules/
+dist/
+*.log
+.DS_Store
+
+assets/*.svg
